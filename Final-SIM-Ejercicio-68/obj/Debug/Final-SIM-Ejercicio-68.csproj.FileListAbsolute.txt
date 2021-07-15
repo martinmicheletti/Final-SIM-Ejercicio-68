@@ -1,0 +1,9 @@
+C:\Users\Administrador\Documents\UTN\Final SIM\Final-SIM-Ejercicio-68\Final-SIM-Ejercicio-68\bin\Debug\Final-SIM-Ejercicio-68.exe.config
+C:\Users\Administrador\Documents\UTN\Final SIM\Final-SIM-Ejercicio-68\Final-SIM-Ejercicio-68\bin\Debug\Final-SIM-Ejercicio-68.exe
+C:\Users\Administrador\Documents\UTN\Final SIM\Final-SIM-Ejercicio-68\Final-SIM-Ejercicio-68\bin\Debug\Final-SIM-Ejercicio-68.pdb
+C:\Users\Administrador\Documents\UTN\Final SIM\Final-SIM-Ejercicio-68\Final-SIM-Ejercicio-68\obj\Debug\Final-SIM-Ejercicio-68.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\UTN\Final SIM\Final-SIM-Ejercicio-68\Final-SIM-Ejercicio-68\obj\Debug\Final_SIM_Ejercicio_68.Properties.Resources.resources
+C:\Users\Administrador\Documents\UTN\Final SIM\Final-SIM-Ejercicio-68\Final-SIM-Ejercicio-68\obj\Debug\Final-SIM-Ejercicio-68.csproj.GenerateResource.cache
+C:\Users\Administrador\Documents\UTN\Final SIM\Final-SIM-Ejercicio-68\Final-SIM-Ejercicio-68\obj\Debug\Final-SIM-Ejercicio-68.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\UTN\Final SIM\Final-SIM-Ejercicio-68\Final-SIM-Ejercicio-68\obj\Debug\Final-SIM-Ejercicio-68.exe
+C:\Users\Administrador\Documents\UTN\Final SIM\Final-SIM-Ejercicio-68\Final-SIM-Ejercicio-68\obj\Debug\Final-SIM-Ejercicio-68.pdb
